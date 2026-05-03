@@ -13,10 +13,6 @@ export default {
   extends: ["example"], // => commitlint-config-example
 };
 ```
-
-:::
-
-This causes `commitlint` to pick up `commitlint-config-example`.
 Make it available by installing it.
 
 ```sh
